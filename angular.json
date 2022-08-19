@@ -105,6 +105,7 @@
               "projects/shell/src/favicon.ico",
               "projects/shell/src/assets",
               "projects/shell/src/manifest.webmanifest",
+              "projects/shell/src/manifest.webmanifest",
               "projects/shell/src/manifest.webmanifest"
             ],
             "styles": [
